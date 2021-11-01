@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="banner.gif" alt="ahtuz's banner">
+</p>
+<p align="center">
   <a href="https://github.com/ahtuz"><img src="https://github-readme-stats.vercel.app/api?username=ahtuz&hide_border=true&show_icons=true&count_private=true&theme=tokyonight&locale=ja&custom_title=Ahtuz's Github Stats" alt="ahtuz's github stats"></a>
 </p>
 
