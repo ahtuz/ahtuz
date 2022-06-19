@@ -1,9 +1,9 @@
 <p align="center">
   <img src="banner.gif" alt="ahtuz's banner">
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ahtuz"><img src="https://github-readme-stats.vercel.app/api?username=ahtuz&hide_border=true&show_icons=true&count_private=true&theme=tokyonight&locale=ja&custom_title=Ahtuz の GitHub 統計" alt="Ahtuz の GitHub 統計"></a>
-</p>
+</p> -->
 
 <!--
 **ahtuz/ahtuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
